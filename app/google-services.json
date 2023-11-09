@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "804656906414",
+    "project_id": "usandocloudfs-2023-2",
+    "storage_bucket": "usandocloudfs-2023-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804656906414:android:316d25ed4868f6f46aed3f",
+        "android_client_info": {
+          "package_name": "br.edu.utfpr.usandocloudfs_2023_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Ufjgd-g-wzNaxRKA1Gb4S1tlBSuKPOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
